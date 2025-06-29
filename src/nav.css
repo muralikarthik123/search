@@ -1,0 +1,22 @@
+@media(max-width:500px){
+    .bt1{
+        display:block
+    }
+    .lap{
+        display:none;
+    }
+}
+@media(min-width:500px){
+    
+    .bt1{
+        display:none
+    }
+    ul{
+        display: flex;
+        margin-left: 70%;
+        gap:5%;
+        li{
+            list-style-type: none;
+        }
+    }
+}

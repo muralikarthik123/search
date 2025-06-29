@@ -1,0 +1,14 @@
+.table{
+    border-collapse: collapse;
+    width:300px;
+    th{
+            background-color: rgb(85, 28, 240);
+            padding-left: 20px;
+            border:1px solid black;
+    }
+    td{
+        background:linear-gradient(to bottom,rgb(30, 219, 153),rgb(29, 91, 31));
+        padding-left: 20px;
+        border:1px solid black;
+    }
+}

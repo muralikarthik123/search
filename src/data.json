@@ -1,0 +1,32 @@
+[
+    {
+        "id":"1",
+        "name":"iphone 13",
+        "storage":"128gb",
+        "dec":"The iPhone 13 features a 6.1-inch Super Retina XDR OLED display for vibrant visuals.It runs on Apple’s powerful A15 Bionic chip, ensuring fast performance and efficiency.The dual-camera system offers excellent photo and video quality, including Cinematic mode.It supports 5G connectivity and has improved battery life over previous models.With a sleek design and available in multiple colors, it's a solid upgrade for most users."
+    },
+    {
+        "id":"2",
+        "name":"iphone 14",
+        "storage":"256gb",
+        "dec":"The iPhone 14 features a 6.1-inch Super Retina XDR OLED display for vibrant visuals.It runs on Apple’s powerful A15 Bionic chip, ensuring fast performance and efficiency.The dual-camera system offers excellent photo and video quality, including Cinematic mode.It supports 5G connectivity and has improved battery life over previous models.With a sleek design and available in multiple colors, it's a solid upgrade for most users."
+    },
+    {
+        "id":"3",
+        "name":"iphone 15",
+        "storage":"512gb",
+        "dec":"The iPhone 15 features a 6.1-inch Super Retina XDR OLED display for vibrant visuals.It runs on Apple’s powerful A15 Bionic chip, ensuring fast performance and efficiency.The dual-camera system offers excellent photo and video quality, including Cinematic mode.It supports 5G connectivity and has improved battery life over previous models.With a sleek design and available in multiple colors, it's a solid upgrade for most users."
+    },
+    {
+        "id":"4",
+        "name":"iphone 16",
+        "storage":"256gb",
+        "dec":"The iPhone 16 features a 6.1-inch Super Retina XDR OLED display for vibrant visuals.It runs on Apple’s powerful A15 Bionic chip, ensuring fast performance and efficiency.The dual-camera system offers excellent photo and video quality, including Cinematic mode.It supports 5G connectivity and has improved battery life over previous models.With a sleek design and available in multiple colors, it's a solid upgrade for most users."
+    },
+    {
+        "id":"5",
+        "name":"iphone 16 pro max",
+        "storage":"512gb",
+        "dec":"The iPhone 13 features a 6.1-inch Super Retina XDR OLED display for vibrant visuals.It runs on Apple’s powerful A15 Bionic chip, ensuring fast performance and efficiency.The dual-camera system offers excellent photo and video quality, including Cinematic mode.It supports 5G connectivity and has improved battery life over previous models.With a sleek design and available in multiple colors, it's a solid upgrade for most users."
+    }
+]
